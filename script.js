@@ -8,7 +8,7 @@ const quizData = [
         correct: "a",
     },
     {
-        question: "Scansindo, PTE, Ltd adalah perusahaan yang berdomisili di 535 Bedok Reservoir Road Singapura dan bergerak dalam bidang usaha pedagang perantara produk kopi (coffee broker). PT. Aneka Coffee adalah perusahaan yang tinggal di Krian Sidoarjo Indonesia dan bergerak dalam bidang manufaktur biji kopi tanpa merk. Dalam memasarkan produknya di Singapura, PT. Aneka Coffee memanfaatkan jasa Scansindo, Pte, Ltd. Jika dalam kewajiban pemotongan PPh Pasal 26, Perusahaan Scansindo, Pte, Ltd tidak menyertakan formulir Directorate General of Taxes (Form DGT) atau Ceritificate of Resicedence (COR), maka atas penghasilan yang diterima oleh Perusahaan Scansindo, Pte, Ltd di potong PPh Pasal 26 sebesar 20%. Atas pemotongan pajak pada kasus di atas sesuai dengan asas pemungutan pajak?",
+        question: "Atas pemotongan pajak pada kasus di atas sesuai dengan asas pemungutan pajak?",
         a: "Asas domisili",
         b: "Asas Sumber",
         c: "Asas Kebangsaan",
