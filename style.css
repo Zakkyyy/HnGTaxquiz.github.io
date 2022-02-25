@@ -40,8 +40,8 @@ ul {
 }
 
 ul li {
-  font-size: 0.2rem;
-  margin: 0.1rem 0;
+  font-size: 1.2rem;
+  margin: 1.1rem 0;
 }
 
 ul li label {
@@ -55,9 +55,9 @@ button {
   display: block;
   width: 100%;
   cursor: pointer;
-  font-size: 0.2rem;
+  font-size: 1,2rem;
   font-family: inherit;
-  padding: 0.3rem;
+  padding: 1.2rem;
 }
 
 button:hover {
