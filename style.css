@@ -41,7 +41,7 @@ ul {
 }
 
 ul li {
-  font-size: 0.8rem;
+  font-size: 1.0rem;
   margin: 0.2rem 0;
 }
 
@@ -56,7 +56,7 @@ button {
   display: block;
   width: 100%;
   cursor: pointer;
-  font-size: 1,2rem;
+  font-size: 1,1rem;
   font-family: inherit;
   padding: 0.2rem;
 }
