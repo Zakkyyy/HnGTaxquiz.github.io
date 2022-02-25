@@ -24,7 +24,7 @@ const quizData = [
         correct: "b",
     },
     {
-        question: "Lohe Lohe International School membayar seorang native speaker, Mr. James Brick, seorang Warga Negara Inggris atas kontrak mengajar selama 1 bulan sebesar US $ 8.000. Mr. James Brick berada di Indonesia selama 2 bulan dan langsung kembali ke Inggris setelah kontrak habis. Dalam hal Kurs KMK ditetapkan sebesar 1 US$ = Rp10.000, berapa PPh yang dipotong?",
+        question: "Lohe Lohe International School membayar seorang native speaker, Mr. James Brick, seorang Warga Negara Inggris atas kontrak mengajar selama 1 bulan sebesar US $ 8.000. Mr. James Brick berada di Indonesia selama 2 bulan dan langsung kembali ke Inggris setelah kontrak habis. Dalam hal Kurs KMK ditetapkan sebesar 1 US$ = Rp10.000, berapa PPh yang dipotong?(asumsi tidak menggunakan Tax Treaty Indonesia-United Kingdom)",
         a: "Rp16.000.000",
         b: "Rp4.000.000",
         c: "Rp1.600.000",
