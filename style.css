@@ -32,7 +32,7 @@ h2 {
   padding: 0.1rem;
   text-align: center;
   margin: 0;
-  font-size: 1.2em;
+  font-size: 0.6em;
 }
 
 ul {
@@ -41,8 +41,8 @@ ul {
 }
 
 ul li {
-  font-size: 1.2rem;
-  margin: 1.1rem 0;
+  font-size: 0.4rem;
+  margin: 0.2rem 0;
 }
 
 ul li label {
