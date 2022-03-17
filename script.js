@@ -8,7 +8,7 @@ const quizData = [
         correct: "d",
     },
     {
-        question: "PT Sewa Ruang menyewakan ruangan-ruangan yang ada di dalam Graha Bogor. Disamping itu PT Sewa Ruang juga melakukan pekerjaan pembersihan gedung di Menara Satu (milik PT Menara), jasa outsourcing petugas kebersihan di Menara Dua (milik PT Kebersihan). Atas penghasilan ini PT Sewa Ruang dipotong PPh Pasa 4 ayat (2) dan PPh Pasal 23. Untuk dapat menghitung PPh Badan maka...",
+        question: "PT Sewa Ruang menyewakan ruangan-ruangan yang ada di dalam Graha Bogor. Disamping itu PT Sewa Ruang juga melakukan pekerjaan pembersihan gedung di Menara Satu (milik PT Menara), jasa outsourcing petugas kebersihan di Menara Dua (milik PT Kebersihan). Atas penghasilan ini PT Sewa Ruang dipotong PPh Pasa 4 ayat (2) dan PPh Pasal 23. Untuk dapat menghitung PPh Badan maka?",
         a: "Wajib pajak tidak perlu melakukan pembukuan terpisah",
         b: "Wajib pajak harus menyelenggarakan pembukuan secara terpisah",
         c: "Pembukuan hanya dilakukan untuk penghasilan yang merupakan objek pajak tidak final",
